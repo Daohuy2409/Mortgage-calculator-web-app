@@ -1,17 +1,11 @@
-# DevProjects - Mortgage calculator web app
-
-This is an open source project from [DevProjects](http://www.codementor.io/projects). Feedback and questions are welcome!
-Find the project requirements here: [Mortgage calculator web app](https://www.codementor.io/projects/web/mortgage-calculator-web-app-d16bqrq2q3)
-
+## Introduction
+Taking out loans and calculating monthly EMI can be confusing and stressful. However, with the help of a mortgage calculator, anyone can easily plan their mortgages out.
 ## Tech/framework used
-Built with ___
+Built with Vue
 
 ## Screenshots and demo
-Screenshots of your app and/or a link to your live demo
+![alt text](image.png)
 
 ## Installation
-Instructions for other developers on how to install and run your code on their local environment.
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
-Most open source projects use the MIT license. Feel free to choose whichever license you prefer.
+
